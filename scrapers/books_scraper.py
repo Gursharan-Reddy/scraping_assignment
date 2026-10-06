@@ -46,7 +46,7 @@ class BooksScraper:
                         "source": "Books to Scrape",
                         "source_url": href,
                         "name_or_title": title,
-                        "category": None,  # Can be expanded by visiting detail pages if desired
+                        "category": None,  
                         "price": price_raw,
                         "rating": rating_raw,
                         "author": None,
